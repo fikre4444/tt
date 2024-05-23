@@ -1,2 +1,2 @@
 second version of second commit.
-edited this for merge conflict.
+doing this from the second face.
