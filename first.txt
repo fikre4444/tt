@@ -1,1 +1,2 @@
 second version of second commit.
+edited this for merge conflict.
