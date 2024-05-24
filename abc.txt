@@ -1,1 +1,2 @@
 "another text for rebase" 
+and andding this as wel
